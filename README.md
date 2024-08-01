@@ -20,10 +20,21 @@ Topics for discussion are suggested by [the gap-analysis template](https://www.w
 [GitHub repo](https://github.com/w3c/amlreq) • [Discussion threads](https://github.com/w3c/amlreq/issues) • [Charter](https://www.w3.org/International/amlreq/charter/)
 
 
-### Documents
+### Resource & requirement docs
+- **Cherokee Script Resources** • [DNOTE](https://www.w3.org/TR/cher-lreq) • [*Editor's draft*](https://w3c.github.io/amlreq/cher/) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/cher/)
+
+- **Canadian Syllabics Script Resources** • [DNOTE](https://www.w3.org/TR/cans-lreq) • [*Editor's draft*](https://w3c.github.io/amlreq/cans/) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/cans/)
+
+- **Osage Script Resources** • [DNOTE](https://www.w3.org/TR/osge-lreq) • [*Editor's draft*](https://w3c.github.io/amlreq/osge/) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/osge/)
+
+
+
+
+
+### Gap documents
 - **Cherokee Gap Analysis** • [DNOTE](https://www.w3.org/TR/cher-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/chr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/cher-gap.html)
 
-- **Inuktitut & Cree Gap Analysis** • [DNOTE](https://www.w3.org/TR/cans-iu-cr-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/iu-cr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/iu-cr-gap.html)
+- **Canadian Syllabics Gap Analysis** • [DNOTE](https://www.w3.org/TR/cans-iu-cr-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/iu-cr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/iu-cr-gap.html)
 
 - **Osage Gap Analysis** • [DNOTE](https://www.w3.org/TR/osge-osa-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/osge-osa-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/osge-osa-gap.html)
 
