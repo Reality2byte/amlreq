@@ -6,12 +6,14 @@ We aim to address the problem that local users don't know how to tell the W3C wh
 
 Topics for discussion are suggested by [the gap-analysis template](https://www.w3.org/International/i18n-activity/templates/gap-analysis/gap-analysis_template.html). This work feeds into the [language matrix](https://www.w3.org/International/typography/gap-analysis/language-matrix.html) which provides a heat-map for language issues on the Web.
 
+This page includes links to Latin script information which is maintained in the [eurlreq](https://w3c.github.io/eurlreq/home) repository, since many languages of the Americas are written using the Latin script.
+
 ---
 
 ## Help wanted!
-**We're looking for information about these writing systems. Follow the links for specific questions.**
+**We're looking for information about these scripts. Follow the links to see whether there are outstanding questions.**
 
-**[Cherokee](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Achr+label%3Aquestion) • [Inuktitut](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Aike+label%3Aquestion) • [Cree](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Acrk+label%3Aquestion) • [Osage](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Aosa+label%3Aquestion)**
+**[Cherokee](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3As%3Acher+label%3Aquestion) • [Canadian Syllabics](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3As%3Acans+label%3Aquestion) • [Osage](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3As%3Aosge+label%3Aquestion) • [Latin](https://github.com/w3c/eurlreq/issues?q=is%3Aissue+is%3Aopen+label%3As%3Alatn+label%3Aquestion)**
 
 ---
 
@@ -27,6 +29,8 @@ Topics for discussion are suggested by [the gap-analysis template](https://www.w
 
 - **Osage Script Resources** • [DNOTE](https://www.w3.org/TR/osge-lreq) • [*Editor's draft*](https://w3c.github.io/amlreq/osge/) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/osge/)
 
+- **Latin Script Resources** • [DNOTE](https://www.w3.org/TR/latn-lreq) • [*Editor's draft*](https://w3c.github.io/eurlreq/latn/) • [*Latest commits*](https://github.com/w3c/eurlreq/commits/gh-pages/latn/)
+
 
 
 
@@ -38,8 +42,10 @@ Topics for discussion are suggested by [the gap-analysis template](https://www.w
 
 - **Osage Gap Analysis** • [DNOTE](https://www.w3.org/TR/osge-osa-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/osge-osa-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/osge-osa-gap.html)
 
+- **Latin Gap Analysis** • [DNOTE](https://www.w3.org/TR/latn-gap) • [*Editor's draft*](https://www.w3.org/International/eurlreq/gap-analysis/latn-gap) • [*Latest commits*](https://github.com/w3c/eurlreq/commits/gh-pages/gap-analysis/latn-gap.html)
 
-### Discussions
+
+### Discussions (by language)
 - **Cherokee** • [*Questions*](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Achr+label%3Aquestion)
 • [*Gap reports*](https://github.com/w3c/amlreq/labels/doc%3Acher)
 • [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3As%3Achr+-label%3Aquestion) 
@@ -56,6 +62,7 @@ Topics for discussion are suggested by [the gap-analysis template](https://www.w
 • [*Gap reports*](https://github.com/w3c/amlreq/labels/doc%3Aosge)
 • [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3As%3Aosa+-label%3Aquestion) 
 • [*Spec issues*](https://github.com/w3c/i18n-activity/issues?q=is%3Aopen+label%3Aamlreq+label%3Aspec-type-issue)
+
 
 
 ### Feedback
