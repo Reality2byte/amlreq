@@ -45,23 +45,23 @@ This page includes links to Latin script information which is maintained in the 
 - **Latin Gap Analysis** • [DNOTE](https://www.w3.org/TR/latn-gap) • [*Editor's draft*](https://www.w3.org/International/eurlreq/gap-analysis/latn-gap) • [*Latest commits*](https://github.com/w3c/eurlreq/commits/gh-pages/gap-analysis/latn-gap.html)
 
 
-### Discussions (by language)
+### Discussions
 - **Cherokee** • [*Questions*](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Achr+label%3Aquestion)
 • [*Gap reports*](https://github.com/w3c/amlreq/labels/doc%3Acher)
-• [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3As%3Achr+-label%3Aquestion) 
-• [*Spec issues*](https://github.com/w3c/i18n-activity/issues?q=is%3Aopen+label%3Aamlreq+label%3Aspec-type-issue)
+• [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3Al%3Achr+-label%3Aquestion) 
+• [*Spec issues*](https://github.com/w3c/i18n-activity/issues?q=is%3Aopen+label%3Ascript-cher+label%3Aspec-type-issue)
 - **Plains Cree** • [*Questions*](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Acrk+label%3Aquestion)
 • [*Gap reports*](https://github.com/w3c/amlreq/labels/doc%3Acans)
-• [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3As%3Acrk+-label%3Aquestion) 
+• [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3Al%3Acrk+-label%3Aquestion) 
 • [*Spec issues*](https://github.com/w3c/i18n-activity/issues?q=is%3Aopen+label%3Aamlreq+label%3Aspec-type-issue)
-- **Inuktitut** • [*Questions*](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Aike+label%3Aquestion)
+- **Inuktitut** • [*Questions*](https://github.com/w3c/script-cans/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Aike+label%3Aquestion)
 • [*Gap reports*](https://github.com/w3c/amlreq/labels/doc%3Acans)
-• [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3As%3Aike+-label%3Aquestion)
-• [*Spec issues*](https://github.com/w3c/i18n-activity/issues?q=is%3Aopen+label%3Aamlreq+label%3Aspec-type-issue)
+• [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3Al%3Aike+-label%3Aquestion)
+• [*Spec issues*](https://github.com/w3c/i18n-activity/issues?q=is%3Aopen+label%3Ascript-cans+label%3Aspec-type-issue)
 - **Osage**  • [*Questions*](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Aosa+label%3Aquestion)
 • [*Gap reports*](https://github.com/w3c/amlreq/labels/doc%3Aosge)
-• [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3As%3Aosa+-label%3Aquestion) 
-• [*Spec issues*](https://github.com/w3c/i18n-activity/issues?q=is%3Aopen+label%3Aamlreq+label%3Aspec-type-issue)
+• [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3Al%3Aosa+-label%3Aquestion) 
+• [*Spec issues*](https://github.com/w3c/i18n-activity/issues?q=is%3Aopen+label%3Ascript-osge+label%3Aspec-type-issue)
 
 
 
