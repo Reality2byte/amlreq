@@ -36,7 +36,7 @@ This page includes links to Latin script information which is maintained in the 
 
 
 ### Gap documents
-- **Cherokee Gap Analysis** • [DNOTE](https://www.w3.org/TR/cher-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/chr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/cher-gap.html)
+- **Cherokee Gap Analysis** • [DNOTE](https://www.w3.org/TR/cher-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/chr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/chr-gap.html)
 
 - **Canadian Syllabics Gap Analysis** • [DNOTE](https://www.w3.org/TR/cans-iu-cr-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/iu-cr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/iu-cr-gap.html)
 
