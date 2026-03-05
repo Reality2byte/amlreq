@@ -8,6 +8,10 @@ Topics for discussion are suggested by [the gap-analysis template](https://www.w
 
 This page includes links to Latin script information which is maintained in the [eurlreq](https://w3c.github.io/eurlreq/home) repository, since many languages of the Americas are written using the Latin script.
 
+
+### Key links
+[GitHub repo](https://github.com/w3c/amlreq) • [Discussion threads](https://github.com/w3c/amlreq/issues) • [Charter](https://www.w3.org/International/amlreq/charter/)
+
 ---
 
 ## Help wanted!
@@ -18,50 +22,45 @@ This page includes links to Latin script information which is maintained in the 
 ---
 
 
-### Key links
-[GitHub repo](https://github.com/w3c/amlreq) • [Discussion threads](https://github.com/w3c/amlreq/issues) • [Charter](https://www.w3.org/International/amlreq/charter/)
-
-
-### Resource & requirement docs
-- **Cherokee Script Resources** • [DNOTE](https://www.w3.org/TR/cher-lreq) • [*Editor's draft*](https://w3c.github.io/amlreq/cher/) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/cher/)
-
-- **Canadian Syllabics Script Resources** • [DNOTE](https://www.w3.org/TR/cans-lreq) • [*Editor's draft*](https://w3c.github.io/amlreq/cans/) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/cans/)
-
-- **Osage Script Resources** • [DNOTE](https://www.w3.org/TR/osge-lreq) • [*Editor's draft*](https://w3c.github.io/amlreq/osge/) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/osge/)
-
-- **Latin Script Resources** • [DNOTE](https://www.w3.org/TR/latn-lreq) • [*Editor's draft*](https://w3c.github.io/eurlreq/latn/) • [*Latest commits*](https://github.com/w3c/eurlreq/commits/gh-pages/latn/)
-
-
-
-
-
-### Gap documents
-- **Cherokee Gap Analysis** • [DNOTE](https://www.w3.org/TR/cher-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/chr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/chr-gap.html)
-
-- **Canadian Syllabics Gap Analysis** • [DNOTE](https://www.w3.org/TR/cans-iu-cr-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/iu-cr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/iu-cr-gap.html)
-
-- **Osage Gap Analysis** • [DNOTE](https://www.w3.org/TR/osge-osa-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/osge-osa-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/osge-osa-gap.html)
-
-- **Latin Gap Analysis** • [DNOTE](https://www.w3.org/TR/latn-gap) • [*Editor's draft*](https://www.w3.org/International/eurlreq/gap-analysis/latn-gap) • [*Latest commits*](https://github.com/w3c/eurlreq/commits/gh-pages/gap-analysis/latn-gap.html)
-
-
-### Discussions
-- **Cherokee** • [*Questions*](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Achr+label%3Aquestion)
+### Cherokee
+- **Script Resources** • [DNOTE](https://www.w3.org/TR/cher-lreq) • [*Editor's draft*](https://w3c.github.io/amlreq/cher/) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/cher/)
+- **Gap Analysis** • [DNOTE](https://www.w3.org/TR/cher-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/chr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/chr-gap.html)
+- **Discussions** • [*Questions*](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Achr+label%3Aquestion)
 • [*Gap reports*](https://github.com/w3c/amlreq/labels/doc%3Acher)
 • [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3Al%3Achr+-label%3Aquestion+-label%3Agap) 
 • [*Spec issues*](https://github.com/w3c/i18n-activity/issues?q=is%3Aopen+label%3Ascript-cher)
-- **Plains Cree** • [*Questions*](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Acrk+label%3Aquestion)
-• [*Gap reports*](https://github.com/w3c/amlreq/labels/doc%3Acans)
-• [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3Al%3Acrk+-label%3Aquestion+-label%3Agap) 
-• [*Spec issues*](https://github.com/w3c/i18n-activity/issues?q=is%3Aopen+label%3Aamlreq)
-- **Inuktitut** • [*Questions*](https://github.com/w3c/script-cans/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Aike+label%3Aquestion)
+
+
+
+### Canadian Syllabics
+- **Script Resources** • [DNOTE](https://www.w3.org/TR/cans-lreq) • [*Editor's draft*](https://w3c.github.io/amlreq/cans/) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/cans/)
+- **Gap Analysis** • [DNOTE](https://www.w3.org/TR/cans-iu-cr-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/iu-cr-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/iu-cr-gap.html)
+- **Discussions:Inuktitut** • [*Questions*](https://github.com/w3c/script-cans/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Aike+label%3Aquestion)
 • [*Gap reports*](https://github.com/w3c/amlreq/labels/doc%3Acans)
 • [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3Al%3Aike+-label%3Aquestion+-label%3Agap)
 • [*Spec issues*](https://github.com/w3c/i18n-activity/issues?q=is%3Aopen+label%3Ascript-cans)
-- **Osage**  • [*Questions*](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Aosa+label%3Aquestion)
+- **Discussions:Plains Cree** • [*Questions*](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Acrk+label%3Aquestion)
+• [*Gap reports*](https://github.com/w3c/amlreq/labels/doc%3Acans)
+• [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3Al%3Acrk+-label%3Aquestion+-label%3Agap) 
+• [*Spec issues*](https://github.com/w3c/i18n-activity/issues?q=is%3Aopen+label%3Aamlreq)
+
+
+
+### Osage
+- **Script Resources** • [DNOTE](https://www.w3.org/TR/osge-lreq) • [*Editor's draft*](https://w3c.github.io/amlreq/osge/) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/osge/)
+- **Gap Analysis** • [DNOTE](https://www.w3.org/TR/osge-osa-gap) • [*Editor's draft*](https://www.w3.org/International/amlreq/gap-analysis/osge-osa-gap) • [*Latest commits*](https://github.com/w3c/amlreq/commits/gh-pages/gap-analysis/osge-osa-gap.html)
+- **Discussions**  • [*Questions*](https://github.com/w3c/amlreq/issues?q=is%3Aissue+is%3Aopen+label%3Al%3Aosa+label%3Aquestion)
 • [*Gap reports*](https://github.com/w3c/amlreq/labels/doc%3Aosge)
 • [*Other*](https://github.com/w3c/amlreq/issues?q=is%3Aopen+label%3Al%3Aosa+-label%3Aquestion+-label%3Agap) 
 • [*Spec issues*](https://github.com/w3c/i18n-activity/issues?q=is%3Aopen+label%3Ascript-osge)
+
+
+
+### Latin
+- **Script Resources** • [DNOTE](https://www.w3.org/TR/latn-lreq) • [*Editor's draft*](https://w3c.github.io/eurlreq/latn/) • [*Latest commits*](https://github.com/w3c/eurlreq/commits/gh-pages/latn/)
+- **Gap Analysis** • [DNOTE](https://www.w3.org/TR/latn-gap) • [*Editor's draft*](https://www.w3.org/International/eurlreq/gap-analysis/latn-gap) • [*Latest commits*](https://github.com/w3c/eurlreq/commits/gh-pages/gap-analysis/latn-gap.html)
+
+
 
 
 
