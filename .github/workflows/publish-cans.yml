@@ -14,7 +14,7 @@ jobs:
           TOOLCHAIN: respec
           SOURCE: cans/index.html
           W3C_ECHIDNA_TOKEN: ${{ secrets.TR_TOKEN_CANS_LREQ }}
-          W3C_WG_DECISION_URL: 
+          W3C_WG_DECISION_URL: https://lists.w3.org/Archives/Public/www-international/2016AprJun/0046.html
           W3C_BUILD_OVERRIDE: |
             specStatus: DNOTE
             shortname: cans-lreq
